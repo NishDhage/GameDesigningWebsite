@@ -1,1 +1,1 @@
-Stopwatch: google.com, pub-2182922988879164, DIRECT, f08c47fec0942fa0
+google.com, pub-2182922988879164, DIRECT, f08c47fec0942fa0
